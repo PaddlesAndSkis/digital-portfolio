@@ -28,9 +28,12 @@ expectations. As an active member of the data science community, I enjoy partici
 expand my knowledge and share my insights with others.
 ```
 
-```{margin}
-### Quote by Tim Berners-Lee
-"Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
+```{margin} Quote by Tim Berners-Lee
+-
+
+> _Data is a precious thing and will last longer than the systems themselves._
+>
+> Tim Berners-Lee
 ```
 
 In summary, I bring a passion for data analysis, a wealth of technical expertise, project management skills, and cross-functional
